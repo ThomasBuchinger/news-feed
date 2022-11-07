@@ -1,0 +1,12 @@
+feed_dir: "example-feed/%YYYY"
+banner_file: example-feed/banner.txt
+
+format:
+  html: true
+  rss: true
+  atom: true
+
+storage:
+  git:
+    url: https://github.com/thomasbuchinger/news-feed
+
